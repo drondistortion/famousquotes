@@ -1,4 +1,1 @@
-# This is a file NUMBER_TOKEN
-
-def f1():
-	print("Hello from file NUMBER_TOKEN")
+print("Hello from file 1")
